@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dev-dauth2026/todolistlatest/static/css/main.6ad6cd04.css",
+    "main.js": "/dev-dauth2026/todolistlatest/static/js/main.97446db5.js",
+    "index.html": "/dev-dauth2026/todolistlatest/index.html",
+    "main.6ad6cd04.css.map": "/dev-dauth2026/todolistlatest/static/css/main.6ad6cd04.css.map",
+    "main.97446db5.js.map": "/dev-dauth2026/todolistlatest/static/js/main.97446db5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ad6cd04.css",
+    "static/js/main.97446db5.js"
+  ]
+}
